@@ -1,0 +1,239 @@
+DISCLAIMER: THIS IS A Single Player GAME
+
+-------------------------NO RUNESCAPE---------------------------
+
+-------------
+
+Persona
+
+-------------
+
+    -Personalities used to determine what decisions you can and can't make in game as well as how people will respond to you
+
+    -Jung/Myers-Briggs? Horoscopes? Pokemon natures? Law, Neutral, Chaos?
+
+    -virdian born, psychic, etc.
+
+    -Custom call commands (i.e. I choose you, ________!, Be strong for mother, ________!)
+
+-------------
+
+Combat
+
+-------------
+
+    -Important. We need ot figure out something other than stupid trainers in stais waiting like statues til u pass their eye and they want to battle because that's fking retarded. I can understand if a hiker is tired and sleeping and hears a noise and wakes and gets anfry or has a bet with you but outside of such situations it's retarded. Some trainers get lost and then decide to battle you out of boredom. Such lostness and boredom needs to be emulated in what theyre doing when they encounter u. Shit have a nigga pee on a tree and get angry as u walk by. but we need to get rid of stasis and circle walking, it's dumb.
+
+    -HP bar is color of the pokemon's type (from puzzles and dragons), can apply gradient to black or white?, opal or greyscaled bar for first encounters/uncaptureds, (specific) legendary shiny majestic bars?
+
+    -Higher levels have nicer hp bars, leveling up adds bar swagg
+
+    -Megaman BN style (adjusted) combat?
+
+    -Pokemon rumble style
+
+    -street fighter/tekken combos -> Street Fighter styled minigame, perhaps dojo (can learn/borrow from "Pokemon Type: Wild" [look it up] and from Brawl)
+
+    -YOU (the trainer, not your pokemon) can fight, get shot, etc.
+
+    -immerse player in battle by letting them play as the pokemon they train
+
+    -more freedom in combat and control over combat outcome
+
+    !-How to implement double and triple battle? Should this be implemented at all?
+
+    -Can combat while riding pokemon (sea and sky battles)
+
+    -can visualize underground/water - should we add a murk effect? so it's harder to see in certain places like dirty water or an abyss?
+
+--------------
+
+Organizations
+
+--------------
+
+    -Can join Organizations (ex. Team Rocket, Prof. Jenny)    
+
+    -Can get discounts and gifts from various organizations (ex. is a member, recurring visitor/shopper)
+
+    -Require training/tests    -Missions (Daily? Weekly? Monthly? Special?) to continue to make being part of an organization significant, this may not be difficult if we learn from pokemon mystery dungeon or MMOs that tend to do have such missions.
+
+~~~~~~~~~~~~~~~NO RUNESCAPE~~~~~~~~~~~~~~~~~~
+
+--------------
+
+Location
+
+--------------
+
+    -Build your own homes (maybe rent) (raidable or WORST depending on absence time)
+
+    -Inn, hotel, pokecenter, hospitals
+
+    -Go off the grid? (Live in the woods, mountains, cave, etc.)
+
+    -Travel with tour group, organization, etc.
+
+    -Enter new location, presents artwork (ex. virdian forest, FR/LG style)
+
+    -Progressively more difficult to harm or benefit an area
+
+    -
+
+--------------
+
+Environments
+
+--------------
+
+    -Moon phases (maybe eclipse, sun moving, timezones)
+
+    -Traps (sinkhole, poisonous plants, cave-ins, etc.)
+
+    -Climate/weather should affect trainer as it does the pokemon when they're in battle even if to a different degree. So hail hurts user or snow increases likeliness to catch a cold, speed debuff, etc etc. One from Golden Sun, not taking shade in hot desserts can cause one to pass out in the middle of a dessert filled with pokemon and the environment has all kinds of troubles and rewards awaiting: http://www.youtube.com/watch?v=ytqTVIj-DCU We could carry this over to different environments. This could make fashion more useful by giving u stats to protect against various environments while giving you an incentive to buy fashion.
+
+    -Should reflect actual earth climates, someone really good at telling rezaul he's overcomplicating the shit out of things should assist with this as well as the mapper (everyone look at will and jason)
+
+--------------
+
+Characters
+
+--------------
+
+    -React to you (appearance or event)
+
+    -React to environment (desert, weather) - should the character catch colds or get heat strokes then?
+
+    -These could be GTA 5 (repetitious) or MGS (one time, consequential) style
+
+    -//Talk someone out of suicide//
+
+    -Professors, more than one per region, assistants, travelling prof.
+
+    -"Random" events, megaman or gta style (ex. walk into a bank robbery)
+
+    -Can rob you/you can try to pickpocket (maybe the bad guys for information, only allowed sometimes, maybe assassin's creed styled)?
+
+    -You and pokemon have to eat (the latter is somewhat implemented in Gen VI pokemon amie)
+
+    -Psychic (and ghost) pokemon can talk to you
+
+    -Ghost pokemon can possess people and objects
+
+    -Ghost humans may exist (notion introduced in Gen IV rotom house)
+
+    -Joey Pokemon Gym Leader
+
+    -Gary Oak as Professor Oak of Pallet Town (Allows us to set this game in the future of anime. )
+
+    -Mewtwo as a trainer? Original suit accessible.
+
+****************NO RUNESCAPE******************
+
+--------------
+
+Pokedex
+
+--------------
+
+    -has wifi/gps
+
+    -Autologs Name and type
+
+    -Diary/journal in pokedex, to take notes
+
+    -Can take pictures, as notes -> would turn this into something mandatory perhaps; making the pokedexing more legitimate, and formal specific information could be obtained from various locations like libraries, research labs, professors, the news, the public, etc. but otherwise what you know about a pokemon would be from your own notes
+
+    -Loses wifi/gps in caves, tunnels, small towns, forests, etc.
+
+    -Implement a Pokemon Amie?
+
+--------------
+
+Badges
+
+--------------
+
+    -Give original buffs from 1st gen (might alter)
+
+    -Provide or restrict access to areas, people
+
+    -
+
+--------------
+
+Animation & Sounds
+
+--------------
+
+    -Pokemon and character sizes should be strictly taken from the Anime and/or Sugimori's concepts and nowhere else. This means fuck the measurements given on pokedex/wikis and we have more work/research to do. Who wants to study and archive pokemon and people height? 
+
+    -Toon shading
+
+    -MikuMikuDance for animation
+
+    -Clothes get wet LOGICALLY
+
+    -Shoes BEND
+
+    -appropriate footstep noises
+
+    -http://imgur.com/a/DDxvd/layout/blog
+
+--------------
+
+Skills
+
+--------------
+
+    -Can have people train your various skills
+
+    -Biking skills, Riding pokemon, Fishing skills (pls no runescape)
+
+    -Everything has movement speed
+
+    -Breeding
+
+    -Stealth (hide from cops)
+
+    -Psychics can sense others (psychic radar vision)
+
+    -Swimming
+
+    -Climbing
+
+    -
+
+--------------
+
+Pokeballs
+
+--------------
+
+    -pokeballs are trackable
+
+    -breakable
+
+    -loseable
+
+    -pokemon can willingly exit pokeball (chance of it being stolen!)
+
+    -apricots
+
+    -
+
+--------------
+
+Misc. + Overall Gameplay
+
+--------------
+
+-would be nice to attempt to keep things in a JRPG aspect with some mobility, think Golden Sun^5 maybe...
+
+-if you have a better idea of an anime-ish game with high mobility (favorably 3D and RPG but not necessary) you should talk to rezaul.
+
+-Make legendaries a challenge to catch, not just tedious. Take a theme or two from Pokemon Mystery Dungeon. -Create more extensive and amusing puzzles (can you say THROWBACK to the older generation of games).
+
+-I want to do gijinkas so I'm thinking we can have a town that's really fucked up in some way and the people and pokemon their are transformed through some magic done by a fking wizrard or a powerful pokemon curse or something and boom gajinkas and it'll be a secret side quest thing you can do maybe (rez). other good ideas are billboard ads that can have like a music band or something and that'll have gijinka band members or we can have a gijinka type maid cafe (mel).
+
+------------------------NO RUNESCAPE---------------------------- 
