@@ -1,19 +1,23 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{91AD577A-DE74-DA2F-EDCB-6190AB338B25}") = "Raw Test", "Assembly-CSharp-firstpass-vs.csproj", "{660FFBEC-002A-EF41-FDAF-8763E69D59B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{660FFBEC-002A-EF41-FDAF-8763E69D59B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660FFBEC-002A-EF41-FDAF-8763E69D59B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660FFBEC-002A-EF41-FDAF-8763E69D59B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660FFBEC-002A-EF41-FDAF-8763E69D59B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																	GlobalSection(MonoDevelopProperties) = preSolution
+																																														GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

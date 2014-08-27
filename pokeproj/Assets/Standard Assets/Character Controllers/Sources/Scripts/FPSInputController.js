@@ -1,4 +1,5 @@
 private var motor : CharacterMotor;
+internal var stopInput : boolean;
 
 // Use this for initialization
 function Awake () {
@@ -7,6 +8,11 @@ function Awake () {
 
 // Update is called once per frame
 function Update () {
+	
+	// Resets all inputs (mouseX and Y overwritten by mouseLook script)
+	if(stopInput){
+		Input.ResetInputAxes();
+	}
 	// Get the input vector from kayboard or analog stick
 	var directionVector = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
 	
@@ -30,6 +36,10 @@ function Update () {
 	// Apply the direction to the CharacterMotor
 	motor.inputMoveDirection = transform.rotation * directionVector;
 	motor.inputJump = Input.GetButton("Jump");
+}
+
+function toggleSuppress(suppressState : boolean){
+	stopInput = suppressState;
 }
 
 // Require a character controller to be attached to the same game object
